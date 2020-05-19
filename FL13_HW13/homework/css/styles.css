@@ -1,0 +1,19 @@
+html {
+    font-size: 1.1rem;
+}
+
+.header__text__button,
+.footer__form__button {
+    background-color: #ff7f50;
+    color: white;
+}
+
+.section__one, 
+.footer {
+    background-color: #343A40;
+    color: #fff;
+}
+
+.section__two {
+    background-color: #f8f9fa;
+}
