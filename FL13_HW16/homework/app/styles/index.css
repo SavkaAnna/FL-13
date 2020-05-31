@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color: #D3D3D3;
+}
+
+#app-container {
+    background-color: #FFEFD5;
+    margin: 0 150px;
+    padding: 0 30px 20px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+}
+
+.title {
+    font-size: 30px;
+    padding: 20px;
+}
+
+.form {
+    display: flex;
+    justify-content: space-around;
+}
+
+.upload {
+    font-size: 30px;
+}
+
+.none-upload {
+    display: none;
+}
+
+input {
+    width: 40%;
+    height: 20px;
+}
+
+.user {
+    margin: 20px 0;
+}
+
+.user p {
+    color: #696969;
+}
+
+.user button {
+    margin-left: 50px;
+    float: right; 
+}
+
+.user span {
+    font-size: 20px;
+    margin-right: 10%;
+}
+
+button {
+    background-color: #D3D3D3;
+}
